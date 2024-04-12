@@ -1,5 +1,5 @@
 /********************************************************************************
- * Name: 08_05reverse2.                                                         *
+ * Name: 08_05reverse2.c                                                        *
  * Purpose: Reverse a serise of numbers using a variable-length array - C99 only*
  * Author: Andy Hsu                                                             *
  ********************************************************************************/
